@@ -8,6 +8,11 @@ A collection of custom themes for Moon+ Reader (Android). These themes enhance t
 |--------------|-------------|
 | Optimal | Based on the KDE Plasma Color Scheme to reduce eyestrain. |
 | Gruvbox | Based on Gruvbox colors. |
+| Breeze Dark | KDE Plasma colors, dark version. |
+
+## 🖼️ Screenshots
+
+Check out the directory called 'Screenshots' 😉
 
 ## 📥 Installation
 
